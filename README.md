@@ -1,2 +1,2 @@
 # movies-crud
-This project demonstrates CRUD API.
+This mini project demonstrates CRUD API.
